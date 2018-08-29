@@ -1,0 +1,24 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="227" filedate="2018-08-29 19:59:02" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-08-29 19:59:02" width="12px" height="12px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="16187" filedate="2018-08-29 19:59:02" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="67528" filedate="2018-08-29 19:59:02" width="480px" height="720px">
+</image>
+<image path="images/p008.jpg" filesize="93118" filedate="2018-08-29 19:59:02" width="593px" height="715px">
+</image>
+<image path="images/p010.jpg" filesize="23385" filedate="2018-08-29 19:59:02" width="321px" height="254px">
+</image>
+<image path="images/p011.jpg" filesize="24840" filedate="2018-08-29 19:59:02" width="318px" height="301px">
+</image>
+<image path="images/p017.jpg" filesize="82585" filedate="2018-08-29 19:59:02" width="670px" height="541px">
+</image>
+<image path="images/p019.jpg" filesize="49415" filedate="2018-08-29 19:59:02" width="485px" height="720px">
+</image>
+<image path="images/titlepage.png" filesize="8778" filedate="2018-08-29 19:59:03" width="461px" height="720px">
+</image>
+</images>
